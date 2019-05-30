@@ -1,6 +1,7 @@
 # delete-blank-lines-at-cursors
 
 VSCode plugin that provides deleting blank lines at cursors functionality.
+Multiple cursors are supported.
 
 These are from emacs help:
 

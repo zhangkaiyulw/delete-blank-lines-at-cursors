@@ -15,14 +15,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:deleteBlankLinesAtCursors"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "deleteBlankLinesAtCursors",
+				"title": "Delete Blank Lines at Cursors"
 			}
 		]
 	},
